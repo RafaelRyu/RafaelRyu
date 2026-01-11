@@ -39,11 +39,11 @@ Aqui estão as principais tecnologias com as quais trabalho e estudo:
 
 <div align="center">
 
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelRyu&theme=dracula"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafael_Ryu&theme=dracula"/>
 
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelRyu&theme=dracula"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafael_Ryu&theme=dracula"/>
 
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelRyu&theme=dracula"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafael_Ryu&theme=dracula"/>
 
 </div>
 
