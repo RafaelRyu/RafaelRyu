@@ -37,8 +37,13 @@ Aqui estão as principais tecnologias com as quais trabalho e estudo:
 
 <div align="center">
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelRyu&theme=RafaelRyu
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafae_lRyu&theme=Rafael_Ryu
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelRyu&theme=RafaelRyu
+"/>
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafae_lRyu&theme=Rafael_Ryu
+"/>
+
+
 
 
 
