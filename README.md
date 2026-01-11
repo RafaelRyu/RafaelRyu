@@ -34,6 +34,9 @@ Aqui estão as principais tecnologias com as quais trabalho e estudo:
 
 ### 📊 Estatísticas do GitHub
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael_Ryu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelRyu)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael_Ryu&theme=radical" />
