@@ -29,23 +29,3 @@ Aqui estão as principais tecnologias com as quais trabalho e estudo:
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 </div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-
-<div align="center">
-
-<div align="center">
-
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelRyu&theme=dracula"/>
-
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelRyu&theme=dracula"/>
-
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelRyu&theme=dracula"/>
-
-</div>
-
-
-</div>
