@@ -37,7 +37,11 @@ Aqui estão as principais tecnologias com as quais trabalho e estudo:
 
 <div align="center">
 
-<img align="center" src="https://metrics.lecoq.io/RafaelRyu?template=classic&languages=1&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&languages.limit=8&languages.sections=most-used&config.timezone=America%2FSao_Paulo"/>
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelRyu&theme=RafaelRyu
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafae_lRyu&theme=Rafael_Ryu
+
+
+
 
 
 </div>
