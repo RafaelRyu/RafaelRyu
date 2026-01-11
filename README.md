@@ -36,11 +36,11 @@ Aqui estão as principais tecnologias com as quais trabalho e estudo:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelRyu&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael_Ryu&theme=radical" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelRyu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRyu&layout=compact&theme=radical&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafael_Ryu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael_Ryu&layout=compact&theme=radical&langs_count=8"/>
 </a>
 
 </div>
