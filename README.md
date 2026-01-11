@@ -36,7 +36,7 @@ Aqui estão as principais tecnologias com as quais trabalho e estudo:
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael_Ryu)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelRyu&theme=radical" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelRyu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
